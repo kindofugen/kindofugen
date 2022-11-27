@@ -1,16 +1,22 @@
-### Hi there 👋
+# <span style='color: #c06c84'>Hi there I'm Eugene</span> :wave:
+<img src="https://user-images.githubusercontent.com/95306934/204135460-a50c3272-f44c-4f49-8531-f8dc28ecb34f.png">
+___
 
-<!--
-**kindofugen/kindofugen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## QA Engineer
 
-Here are some ideas to get you started:
+### :receipt: Open for job offers: Automation QA Junior (Cypress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### based in Saint-Petersburg
+_____
+
+### So i'm just learning to code. Started it recently. I'm gradually adding my small learning projects here. It motivates me to work harder and one day there will be something significant.
+
+___
+
+### :hammer_and_wrench: <span style='color: #c06c84'>My current tools</span>:
+
+<img src='https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript'> <img src='https://img.shields.io/badge/MSSql-black?style=for-the-badge&logo=Microsoft SQL Server'> <img src='https://img.shields.io/badge/Postgresql-black?style=for-the-badge&logo=PostgreSQL'> <img src='https://img.shields.io/badge/docker-black?style=for-the-badge&logo=Docker'> <img src='https://img.shields.io/badge/postman-black?style=for-the-badge&logo=Postman'>
+
+### :hammer: <span style='color: #c06c84'>Tools that i'm learning now</span>:
+
+<img src='https://img.shields.io/badge/cypress-black?style=for-the-badge&logo=Cypress'> <img src='https://img.shields.io/badge/react-black?style=for-the-badge&logo=React'> <img src='https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=Node.js'>
