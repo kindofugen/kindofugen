@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/95306934/204135460-a50c3272-f44c-4f49-8531-f8dc28ecb34f.png">
 ___
 
-## Beginner Frontend Developer
+## Frontend Developer
 
 ### based in Saint-Petersburg
 _____
